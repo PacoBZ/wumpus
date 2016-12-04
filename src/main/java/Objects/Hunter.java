@@ -64,7 +64,7 @@ public class Hunter {
 		}
 		direction--;
 
-		System.out.println("You turn righth");
+		System.out.println("You turn right");
 	}
 
 	public void turnLeft() {
